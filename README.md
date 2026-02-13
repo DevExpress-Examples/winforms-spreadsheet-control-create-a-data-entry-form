@@ -20,7 +20,7 @@ The following code example shows how to use the SpreadsheetControl to create a p
 
 [How to Use SpreadsheetControl for WPF to Create a Data Entry Form](https://github.com/DevExpress-Examples/how-to-use-spreadsheetcontrol-to-create-a-data-entry-form)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-spreadsheet-control-create-a-data-entry-form&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-spreadsheet-control-create-a-data-entry-form&~~~was_helpful=no)
 
